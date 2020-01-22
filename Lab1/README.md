@@ -3,7 +3,7 @@ Rule-based sentence generator
 
 ## Table of Contents
 - [Background](#background)
-- [Running result](#running-result)
+- [Running result 1](#running-result)
 
 ## Background
 How to generate sentences is a classic problem. From the 1940s, when Turing proposed machine intelligence, he used the ability of humans to communicate with computers smoothly. A prerequisite for talking to a computer is that the computer can generate language.
@@ -19,7 +19,7 @@ Model can generate language that is closer to humans
 
 ## Table of Contents
 - [Background](#background)
-- [Running result](#running-result)
+- [Running result 2](#running-result)
 - [Maintainers](#maintainers)
 
 ## Background
