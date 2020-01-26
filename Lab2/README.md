@@ -12,7 +12,7 @@ We provide a quick template-based dialogue robot configuration method. The user 
 
 ## Running result2
 <p align="center">
-<img src="https://github.com/jianengli/NLP-learning/blob/master/Lab2/Result2.jpg"/>
+<img src="https://github.com/jianengli/NLP-learning/blob/master/Lab2/Result2.png"/>
 </p>
 
 ## Maintainers
