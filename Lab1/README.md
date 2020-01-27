@@ -24,10 +24,13 @@ A probability-based program reads the data source and build up a language model,
 
 ## Background
 Building the language model: First, clean the text to get all the plain text and cut the text into words. Then, according to the 2-gram principle, the cleaned up text is trained into a language model.
+
 Generate language: Use the semantic tree-based language generator to generate multiple sentences, and then use the language model to calculate the probability of each sentence occurring. The highest is the language closest to humans.
+
 Function: Define the generate_best function, which inputs a grammar and language model, can generate n lines of sentences, and can pick one of the most reasonable sentence. The result is a sentence most likely to be spoken by humans.
 
 ## Running result2
+Frequency chart of the top 100 words that appear most frequently in the provided dataset：
 <p align="center">
 <img src="https://github.com/jianengli/NLP-learning/blob/master/Lab1/Plot%20the%20vocabulary%20frequency%20of%20the%20top%20100%20statistical%20results.png"/>
 </p>
