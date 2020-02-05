@@ -1,4 +1,5 @@
-# Shanghai Subway Line Inquiry System Based on Optimal Search Using BFS
+# Shanghai Subway Line Inquiry System Based on Optimal Search Using Variation of BFS
+
 Shanghai subway line inquiry system. At present, the system can provide the shortest time-consuming route plan between two subway stations.
 
 ## Table of Contents
